@@ -55,7 +55,7 @@ export default function VIDEO_PLAYER({ id: id }) {
 				<button
 					onClick={() =>
 						make_player(
-							`https://multiembed.mov/?video_id=${id}`)
+							`https://www.2embed.cc/embed/${id}`)
 					}
 				>
 					Multi Server
