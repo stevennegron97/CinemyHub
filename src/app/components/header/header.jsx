@@ -10,13 +10,13 @@ export default async function Header() {
 						href={"/"}
 						style={{ textDecoration: "none", color: "white" }}
 					>
-						<p>CinemyHub</p>
+						<p>Cinemyhub</p>
 					</Link>
 				</div>
 				<div className={styles.right}>
 					<Link href="/anime">Anime</Link>
 					<Link href="/movies">Movies</Link>
-					<Link href="/movies">TV-Shows</Link>
+					<Link href="/movies">TV Shows</Link>
 					<Link href="/kdrama">K-Dramas</Link>
 					<Link href="/manga">Comics</Link>
 					
