@@ -1,4 +1,4 @@
-Hubimport Link from "next/link";
+HubHubimport Link from "next/link";
 import styles from "../../page.module.css";
 
 export default async function Header() {
@@ -10,7 +10,7 @@ export default async function Header() {
 						href={"/"}
 						style={{ textDecoration: "none", color: "white" }}
 					>
-						<p>Dramalama</p>
+						<p>CinemyHub</p>
 					</Link>
 				</div>
 				<div className={styles.right}>
