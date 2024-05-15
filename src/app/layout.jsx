@@ -12,7 +12,7 @@ export const metadata = {
 	description:
 		"Online service to watch ,Movies & TV shows, kdramas and Anime for free. You can also read and download mangas for free.",
 	generator: "Next.js",
-	applicationName: "Dramalama",
+	applicationName: "CinemyHub",
 	authors: [{ name: "Steven", url: "https://https://t.me/+dqiVcJAa0n5iM2Q1" }],
 	creator: "Steven",
 	keywords: ["K-Dramas", "Anime", "Manga", "Watch Online"],
