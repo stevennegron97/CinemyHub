@@ -8,11 +8,11 @@ import { Analytics } from "@vercel/analytics/react";
 const lexend = Lexend_Deca({ subsets: ["latin"] });
 
 export const metadata = {
-	title: "Dramalama",
+	title: "CinemyHub",
 	description:
 		"Online service to watch kdramas and anime for free. You can also read and download mangas for free.",
 	generator: "Next.js",
-	applicationName: "Dramalama",
+	applicationName: "CinemyHub",
 	authors: [{ name: "zephex", url: "https://github.com/real-zephex" }],
 	creator: "Zephex",
 	keywords: ["Kdrama", "Anime", "Manga", "Watch Online"],
